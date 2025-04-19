@@ -1,5 +1,7 @@
 # 🚀 Project Ultimate path to IoT Ecosystem
 
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+
 ![Logo](logo.png)
 
 Welcome to **Ultimate Path To IoT Ecosystem** – an all-encompassing initiative designed to master the core and advanced concepts of IoT, MicroPython, Cybersecurity, Networking, AI, ML, Cloud, Edge, APIs, and more!
