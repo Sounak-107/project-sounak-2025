@@ -1,2 +1,73 @@
-# project-sounak-2025
-My complete IoT + AI + Cloud learning journey 
+
+# 🚀 Project Sounak 2025
+
+![Logo](logo.png)
+
+Welcome to **Project Sounak 2025** – an all-encompassing initiative designed to master the core and advanced concepts of IoT, MicroPython, Cybersecurity, Networking, AI, ML, Cloud, Edge, APIs, and more!
+
+---
+
+## 🌟 Project Objective
+
+To build a **secure, scalable, AI-integrated IoT ecosystem** from scratch by mastering:
+
+- ✅ MicroPython & CircuitPython
+- ✅ Communication Protocols (MQTT, HTTP, WebSockets)
+- ✅ Edge Computing & Edge AI
+- ✅ Networking (TCP/IP, DNS, DHCP)
+- ✅ Secure API Integrations
+- ✅ Cloud + Cloud DB (GCP, AWS)
+- ✅ AI, ML, Deep Learning
+- ✅ IoT Security & Blockchain
+- ✅ Real-time Analytics + Power BI
+- ✅ Full Web + Mobile Interfacing
+
+---
+
+## 🧠 Phase 0: Preparation
+
+- [x] Set up GitHub repo ✅
+- [x] Add project branding (custom README & logo) ✅
+- [x] Initialize guided learning plan ✅
+- [x] Personal Branding: `Sounak-107/project-sounak-2025` ✅
+
+---
+
+## 🛠️ Tech Stack
+
+- **Microcontrollers:** ESP32, Raspberry Pi Pico W
+- **Languages:** Python, JavaScript
+- **Cloud:** GCP, Firebase, AWS
+- **Frontend:** Angular / React
+- **Backend:** FastAPI
+- **Database:** MySQL (Cloud SQL)
+
+---
+
+## 🔰 Guided Path Milestones
+
+| Phase | Focus Area | Status |
+|-------|-------------|--------|
+| Phase 0 | Repo + Branding Setup | ✅ |
+| Phase 1 | MicroPython + IoT Basics | 🔜 |
+| Phase 2 | Networking + Protocols | 🔜 |
+| Phase 3 | Cloud + API Integration | 🔜 |
+| Phase 4 | DBMS + GCP Cloud SQL | 🔜 |
+| Phase 5 | AI + ML for IoT | 🔜 |
+| Phase 6 | IoT Security + Blockchain | 🔜 |
+| Phase 7 | Deployment + Monitoring | 🔜 |
+
+---
+
+## 🧩 Want to Follow Along?
+
+Join me on my journey on:
+- 🔗 [GitHub](https://github.com/Sounak-107/project-sounak-2025)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sounak-ban-107)
+- 📘 Notion Public Roadmap (coming soon...)
+
+---
+
+Let’s build the future, one sensor at a time 🛠️
+
+— **Sounak Banerjee**
