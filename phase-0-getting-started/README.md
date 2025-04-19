@@ -1,4 +1,4 @@
-# 📌 Phase 0: Project Initialization - Project Sounak 2025
+# 📌 Phase 0: Project Initialization - Project Ultimate Path To IoT Ecosystem
 
 Welcome to **Project Ultimate Path To Iot Ecosystem** – my personal journey to mastering IoT, AI, Web, Cloud, Security, and more.
 
