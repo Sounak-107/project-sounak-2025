@@ -1,9 +1,9 @@
 
-# 🚀 Project Sounak 2025
+# 🚀 Project Ultimate path to IoT Ecosystem
 
 ![Logo](logo.png)
 
-Welcome to **Project Sounak 2025** – an all-encompassing initiative designed to master the core and advanced concepts of IoT, MicroPython, Cybersecurity, Networking, AI, ML, Cloud, Edge, APIs, and more!
+Welcome to **Ultimate Path To IoT Ecosystem** – an all-encompassing initiative designed to master the core and advanced concepts of IoT, MicroPython, Cybersecurity, Networking, AI, ML, Cloud, Edge, APIs, and more!
 
 ---
 
@@ -62,7 +62,7 @@ To build a **secure, scalable, AI-integrated IoT ecosystem** from scratch by mas
 ## 🧩 Want to Follow Along?
 
 Join me on my journey on:
-- 🔗 [GitHub](https://github.com/Sounak-107/project-sounak-2025)
+- 🔗 [GitHub](https://github.com/Sounak-107/project-ultimate-path-to-IoT-Ecosystem)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sounak-banerjee-innovation?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ---
 
