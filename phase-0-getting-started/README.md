@@ -1,6 +1,6 @@
 # 📌 Phase 0: Project Initialization - Project Sounak 2025
 
-Welcome to **Project Sounak 2025** – my personal journey to mastering IoT, AI, Web, Cloud, Security, and more.
+Welcome to **Project Ultimate Path To Iot Ecosystem** – my personal journey to mastering IoT, AI, Web, Cloud, Security, and more.
 
 This README serves as a summary of everything accomplished in **Phase 0**, laying the groundwork for the incredible tech journey ahead.
 
@@ -10,7 +10,7 @@ This README serves as a summary of everything accomplished in **Phase 0**, layin
 
 ### 1. 🎯 Project Setup
 
-- Created the **official GitHub repository**: [project-sounak-2025](https://github.com/Sounak-107/project-sounak-2025)
+- Created the **official GitHub repository**: [project-ultimate-path-to-IoT-Ecosystem](https://github.com/Sounak-107/project-ultimate-path-to-IoT-Ecosystem)
 - Structured it for phase-wise documentation and code management
 
 ### 2. 🎨 Branding and Identity
@@ -23,7 +23,7 @@ This README serves as a summary of everything accomplished in **Phase 0**, layin
 ## 📁 Folder Structure (So Far)
 
 ```
-project-sounak-2025/
+project-ultimate-path-to-IoT-Ecosystem/
 │
 ├── phase-0/                    # Project setup, logo, and README
 │   ├── README.md
