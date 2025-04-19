@@ -1,6 +1,6 @@
 # 📌 Phase 0: Project Initialization - Project Sounak 2025
 
-Welcome to **Project Sounak 2025** – your personal journey to mastering IoT, AI, Web, Cloud, Security, and more.
+Welcome to **Project Sounak 2025** – my personal journey to mastering IoT, AI, Web, Cloud, Security, and more.
 
 This README serves as a summary of everything accomplished in **Phase 0**, laying the groundwork for the incredible tech journey ahead.
 
