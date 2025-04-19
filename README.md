@@ -1,4 +1,3 @@
-
 # 🚀 Project Ultimate path to IoT Ecosystem
 
 ![Logo](logo.png)
@@ -29,7 +28,7 @@ To build a **secure, scalable, AI-integrated IoT ecosystem** from scratch by mas
 - [x] Set up GitHub repo ✅
 - [x] Add project branding (custom README & logo) ✅
 - [x] Initialize guided learning plan ✅
-- [x] Personal Branding: `Sounak-107/project-sounak-2025` ✅
+- [x] Personal Branding: `Sounak-107/project-ultimate-path-to-iot-ecosystem` ✅
 
 ---
 
@@ -46,24 +45,26 @@ To build a **secure, scalable, AI-integrated IoT ecosystem** from scratch by mas
 
 ## 🔰 Guided Path Milestones
 
-| Phase | Focus Area | Status |
-|-------|-------------|--------|
-| Phase 0 | Repo + Branding Setup | ✅ |
-| Phase 1 | MicroPython + IoT Basics | 🔜 |
-| Phase 2 | Networking + Protocols | 🔜 |
-| Phase 3 | Cloud + API Integration | 🔜 |
-| Phase 4 | DBMS + GCP Cloud SQL | 🔜 |
-| Phase 5 | AI + ML for IoT | 🔜 |
-| Phase 6 | IoT Security + Blockchain | 🔜 |
-| Phase 7 | Deployment + Monitoring | 🔜 |
+| Phase   | Focus Area                | Status |
+| ------- | ------------------------- | ------ |
+| Phase 0 | Repo + Branding Setup     | ✅     |
+| Phase 1 | MicroPython + IoT Basics  | 🔜     |
+| Phase 2 | Networking + Protocols    | 🔜     |
+| Phase 3 | Cloud + API Integration   | 🔜     |
+| Phase 4 | DBMS + GCP Cloud SQL      | 🔜     |
+| Phase 5 | AI + ML for IoT           | 🔜     |
+| Phase 6 | IoT Security + Blockchain | 🔜     |
+| Phase 7 | Deployment + Monitoring   | 🔜     |
 
 ---
 
 ## 🧩 Want to Follow Along?
 
 Join me on my journey on:
+
 - 🔗 [GitHub](https://github.com/Sounak-107/project-ultimate-path-to-IoT-Ecosystem)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sounak-banerjee-innovation?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 ---
 
 Let’s build the future, one sensor at a time 🛠️
