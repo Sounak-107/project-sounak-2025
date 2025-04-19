@@ -63,7 +63,7 @@ To build a **secure, scalable, AI-integrated IoT ecosystem** from scratch by mas
 
 Join me on my journey on:
 - 🔗 [GitHub](https://github.com/Sounak-107/project-sounak-2025)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sounak-ban-107)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/sounak-ban-107](https://www.linkedin.com/in/sounak-banerjee-innovation?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - 📘 Notion Public Roadmap (coming soon...)
 
 ---
