@@ -1,5 +1,7 @@
 # 🔌 LED Button Control with ESP32 – MicroPython
 
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+
 We are using Thonny IDE
 
 This basic GPIO project toggles an LED when a button is pressed using MicroPython on ESP32.

@@ -1,5 +1,7 @@
 # 📌 Phase 0: Project Initialization - Project Ultimate Path To IoT Ecosystem
 
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+
 Welcome to **Project Ultimate Path To Iot Ecosystem** – my personal journey to mastering IoT, AI, Web, Cloud, Security, and more.
 
 This README serves as a summary of everything accomplished in **Phase 0**, laying the groundwork for the incredible tech journey ahead.

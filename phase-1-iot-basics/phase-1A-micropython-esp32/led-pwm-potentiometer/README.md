@@ -1,5 +1,7 @@
 # 🔦 LED Brightness Control using PWM & Potentiometer | ESP32 + MicroPython
 
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+
 This task demonstrates how to control the brightness of an LED using a potentiometer with PWM (Pulse Width Modulation) on the ESP32, programmed using MicroPython.
 
 ---

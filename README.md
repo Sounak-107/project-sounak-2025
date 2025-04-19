@@ -70,3 +70,9 @@ Join me on my journey on:
 Let’s build the future, one sensor at a time 🛠️
 
 — **Sounak Banerjee**
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+Copyright © 2025 Sounak Banerjee
