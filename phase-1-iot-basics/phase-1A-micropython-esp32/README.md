@@ -28,4 +28,4 @@ Release the button → LED turns off
 
 ---
 
-> This is Task 1 of Phase 1A in **Project Sounak 2025** 🚀
+> This is Task 1 of Phase 1A in **Project ultimate pathe to IOT Ecosystem** 🚀
