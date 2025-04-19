@@ -36,7 +36,7 @@ To build a **secure, scalable, AI-integrated IoT ecosystem** from scratch by mas
 
 ## 🛠️ Tech Stack
 
-- **Microcontrollers:** ESP32, Raspberry Pi Pico W
+- **Microcontrollers:** ESP32, Raspberry Pi Pico W , Raspberry Pi 3B+ , Raspberry Pi 4B+
 - **Languages:** Python, JavaScript
 - **Cloud:** GCP, Firebase, AWS
 - **Frontend:** Angular / React
